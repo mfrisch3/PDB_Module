@@ -648,7 +648,7 @@
         "uuid": "c6594e4c-811c-406f-a399-e48cb280b909"
       }
     ],
-    "used_designators": "#PWR1-2,J1-7,C1-5,U1,CR1",
+    "used_designators": "#PWR1-3,J1-7,Cin1,C1-5,U1,CR1,Cbias1,Cboot1,Rfbt1,Cinx1,Cout1,Coutx1,Cvcc1,Rfbb1,Rpgood1",
     "variants": []
   },
   "sheets": [
